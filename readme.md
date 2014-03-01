@@ -3,17 +3,17 @@ Entry by Ernest (iFire) Lee
 All rights reserved.
 
 ## Contest
+
 * JAM: March 1st - 10th
 * VOTING: March 10th - 24th
 * twitter #CYBERPUNKGAMEJAM
 * freenode IRC #CYBERPUNKJAM
-
-* hosted by itch.io
-* presented by deviever.com
+* Hosted by itch.io.
+* Presented by deviever.com.
 
 Must be cyberpunk related.
 Any game type / system.
-Based on theme image.
+Based on theme. ![Theme](https://github.com/fire/2014cyberpunkjam/raw/master/Docs/Theme.jpg "Theme")
 
 ## Entries judged on A.R.P.S.
 
