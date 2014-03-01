@@ -2,6 +2,10 @@
 Entry by Ernest (iFire) Lee
 All rights reserved.
 
+Concept: You build your towers to attack the downwards core. The towers slowly grow, but they can be attacked 
+
+The ui taken on the right side of the screen with a vertical selector.
+
 ## Contest
 
 * JAM: March 1st - 10th
