@@ -17,7 +17,7 @@ The ui taken on the right side of the screen with a vertical selector.
 
 Must be cyberpunk related.
 Any game type / system.
-Based on theme. ![Theme](https://github.com/fire/2014cyberpunkjam/raw/master/Docs/Theme.jpg "Theme")
+Based on theme image by Filipe Andrade. ![Theme](https://github.com/fire/2014cyberpunkjam/raw/master/Docs/Theme.jpg "Theme")
 
 ## Entries judged on A.R.P.S.
 
